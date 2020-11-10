@@ -1,6 +1,8 @@
 ngDraggable
 ===========
 
+### Форк исправленной фронт библиотеки. Ранее лежал в личном репозитории одного из разработчиков
+
 Drag and drop module for Angular JS with support for touch devices. [`demo`](http://htmlpreview.github.io/?https://github.com/fatlinesofcode/ngDraggable/blob/master/example.html).
 
 ### Usage:
